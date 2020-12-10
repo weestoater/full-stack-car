@@ -1,1 +1,1 @@
-# full-stack-car
+# Packt.com - Full Stack Spring + React app
